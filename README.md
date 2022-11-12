@@ -3,13 +3,7 @@
 
 Object of functions for creation a code editor in a contenteditable block 
 
-v 0.0.1
-
-Notice
-  bad optimization
-
-JS
-HTML
+v 0.0.4
 
 ## Animation main functions:
 ![tagbrain.gif](tagbrain.gif)
